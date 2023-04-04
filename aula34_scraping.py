@@ -7,6 +7,7 @@
 # - Doc: https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/
 # + Instalação
 # - pip install requests types-requests bs4
+#
 import re
 
 import requests
